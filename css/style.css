@@ -1,0 +1,16 @@
+#image-div{
+    position: relative;
+    width: 80%;
+    height: 200px;
+    border: 1px solid black;
+}
+#image{
+    align-content: center;
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    max-width: 100%;
+    height: auto;
+}
